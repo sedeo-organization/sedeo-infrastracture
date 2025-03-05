@@ -1,0 +1,27 @@
+{
+	"/subscriptions/f8e07220-9b66-4b1a-aa51-c3d502f6f806/resourceGroups/Sedeo": {
+		"resource_id": "/subscriptions/f8e07220-9b66-4b1a-aa51-c3d502f6f806/resourceGroups/Sedeo",
+		"resource_type": "azurerm_resource_group",
+		"resource_name": "res-0"
+	},
+	"/subscriptions/f8e07220-9b66-4b1a-aa51-c3d502f6f806/resourceGroups/Sedeo/providers/Microsoft.Communication/CommunicationServices/sedeo-communication-services": {
+		"resource_id": "/subscriptions/f8e07220-9b66-4b1a-aa51-c3d502f6f806/resourceGroups/Sedeo/providers/Microsoft.Communication/communicationServices/sedeo-communication-services",
+		"resource_type": "azurerm_communication_service",
+		"resource_name": "res-1"
+	},
+	"/subscriptions/f8e07220-9b66-4b1a-aa51-c3d502f6f806/resourceGroups/Sedeo/providers/Microsoft.Communication/EmailServices/sedeo-emailing": {
+		"resource_id": "/subscriptions/f8e07220-9b66-4b1a-aa51-c3d502f6f806/resourceGroups/Sedeo/providers/Microsoft.Communication/emailServices/sedeo-emailing",
+		"resource_type": "azurerm_email_communication_service",
+		"resource_name": "res-2"
+	},
+	"/subscriptions/f8e07220-9b66-4b1a-aa51-c3d502f6f806/resourceGroups/Sedeo/providers/Microsoft.Communication/EmailServices/sedeo-emailing/Domains/AzureManagedDomain": {
+		"resource_id": "/subscriptions/f8e07220-9b66-4b1a-aa51-c3d502f6f806/resourceGroups/Sedeo/providers/Microsoft.Communication/emailServices/sedeo-emailing/domains/AzureManagedDomain",
+		"resource_type": "azurerm_email_communication_service_domain",
+		"resource_name": "res-3"
+	},
+	"/subscriptions/f8e07220-9b66-4b1a-aa51-c3d502f6f806/resourceGroups/Sedeo/providers/Microsoft.Communication/EmailServices/sedeo-emailing/Domains/sedeo.com": {
+		"resource_id": "/subscriptions/f8e07220-9b66-4b1a-aa51-c3d502f6f806/resourceGroups/Sedeo/providers/Microsoft.Communication/emailServices/sedeo-emailing/domains/sedeo.com",
+		"resource_type": "azurerm_email_communication_service_domain",
+		"resource_name": "res-4"
+	}
+}
